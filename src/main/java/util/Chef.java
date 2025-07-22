@@ -1,4 +1,4 @@
-package com.pixelacademy.inversioncontrol;
+package util;
 
 public interface Chef {
 

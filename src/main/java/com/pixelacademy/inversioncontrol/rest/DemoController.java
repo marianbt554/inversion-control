@@ -1,5 +1,6 @@
-package com.pixelacademy.inversioncontrol;
+package com.pixelacademy.inversioncontrol.rest;
 
+import util.Chef;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
